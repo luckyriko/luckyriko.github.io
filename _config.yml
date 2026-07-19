@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: LuckyRiko
-subtitle: ""
-description: ""
-keywords:
+title: 理
+subtitle: "少年不识愁滋味 爱上层楼 爱上层楼"
+description: "幸运理子的个人博客"
+keywords: blog
 author: LuckyRiko
-language: en
-timezone: ""
+language: zh
+timezone: "Asia/Shanghai"
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://luckyriko.github.io/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -90,6 +90,8 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
+## loststar: https://github.com/thatnghiepdev/hexo-theme-lostar
+## defalut theme: landscape
 theme: loststar
 
 # Deployment
